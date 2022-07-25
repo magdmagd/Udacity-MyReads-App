@@ -81,6 +81,6 @@ The backend API uses a fixed set of Search Terms , which can be found B/M :
 
 
 ## ScrrenShots
-[HomePageScreenShot](public/images/HomPage.png)
+[HomePageScreenShot](public/images/HomePage.png)
 [SearchPageScreenShot](public/images/SearchPage.png)
 
