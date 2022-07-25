@@ -23,8 +23,12 @@
 ├── public
 │   ├── favicon.ico # React Icon, You may change if you wish.
 │   └── index.html  #  DO NOT MODIFY
-│   └──  Images ├── HomePage.png    # View Home Page Screenshot
-                ├── SearchPage.png  # View Home Page SearchPage
+│   └──  Images ├── HomePage.png        # View Home Page Screenshot
+│               ├── SearchPage.png      # View Search Page SearchPage
+│               ├── ErrorPage.png       # View Error Page Screenshot
+│               ├── CurrentlyReadingShelf.png      # View Currently Reading Shelf Screenshot
+│               ├── WantReadShelf.png              # View Want to Reading Shelf Screenshot
+│               └── ReadShelf.png                  # View  Read Shelf Screenshot
 │
 └── src
      ├── Components
@@ -83,4 +87,7 @@ The backend API uses a fixed set of Search Terms , which can be found B/M :
 ## ScrrenShots
 [HomePageScreenShot](public/images/HomePage.png)
 [SearchPageScreenShot](public/images/SearchPage.png)
-
+[ErrorPageScreenShot](public/images/ErrorPage.png)
+[ReadShelfScreenshot](public/images/ReadShelf.png)
+[WantToReadShelfScreenshot](public/images/WantReadShelf.png)
+[CurrentlyReadingShelfScreenShot](public/images/CurrentlyReadingShelf.png)
