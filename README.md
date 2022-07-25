@@ -87,7 +87,7 @@ The backend API uses a fixed set of Search Terms , which can be found B/M :
 ## ScrrenShots
 [HomePageScreenShot](public/images/HomePage.png)
 [SearchPageScreenShot](public/images/SearchPage.png)
-[ErrorPageScreenShot](public/images/ErrorPage.png)
-[ReadShelfScreenshot](public/images/ReadShelf.png)
-[WantToReadShelfScreenshot](public/images/WantReadShelf.png)
-[CurrentlyReadingShelfScreenShot](public/images/CurrentlyReadingShelf.png)
+[ErrorPageScreenShot](public/images/ErrorPage.PNG)
+[ReadShelfScreenshot](public/images/ReadShelf.PNG)
+[WantToReadShelfScreenshot](public/images/WantReadShelf.PNG)
+[CurrentlyReadingShelfScreenShot](public/images/CurrentlyReadingShelf.PNG)
